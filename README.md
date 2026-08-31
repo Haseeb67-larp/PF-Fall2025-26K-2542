@@ -34,4 +34,4 @@ git commit -m "Initial commit"
 git push
 ```
 
-![Placeholder Image](https://via.placeholder.com/150)
+![Placeholder Image](https://share.google/pT1vhxbiPCYeQQGWA)
