@@ -7,7 +7,7 @@ Programming Fundamentals Lab Work — Fall 2025.
 Here is a line with **bold text**, *italic text*, and ***bold and italic text***.
 Here is a line with ~~strikethrough text~~.
 
-> "Talk is cheap. Show me the code." - Linus Torvalds
+> "idk any code quotes" - Haseeb
 
 * Programming Fundamentals
 * Calculus
@@ -34,4 +34,4 @@ git commit -m "Initial commit"
 git push
 ```
 
-![Placeholder Image](https://via.placeholder.com/150)
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
