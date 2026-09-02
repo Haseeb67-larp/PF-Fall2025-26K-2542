@@ -19,7 +19,7 @@ Here is a line with ~~strikethrough text~~.
 
 * University Assignments
   * Lab tasks
-  * Open-ended projects
+  * Projects
 
 - [x] Create a GitHub account
 - [x] Finish Task 1
